@@ -3,6 +3,9 @@
 Classification binaire de connexions réseau (**normal** / **anomalie**) par régression logistique, avec une lecture orientée **SOC**, **architecture de sécurité** et **IA**.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OL1G1KH_mL02lyMXPSpNz8UgW8124Oup)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
+
+![Architecture du pipeline de détection](images/pipeline.png)
 
 ## Objectif
 
